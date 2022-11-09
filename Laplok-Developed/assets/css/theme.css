@@ -7,73 +7,74 @@
 }
 
 :root {
-  --si-blue: #2078BB;
-  --si-indigo: #6610f2;
-  --si-purple: #6f42c1;
-  --si-pink: #d63384;
-  --si-red: #dc3545;
-  --si-orange: #fd7e14;
-  --si-yellow: #ffc107;
-  --si-green: #198754;
-  --si-teal: #20c997;
-  --si-cyan: #0dcaf0;
-  --si-black: #000;
-  --si-white: #fff;
-  --si-gray: #9397ad;
-  --si-gray-dark: #33354d;
-  --si-gray-100: #f3f6ff;
-  --si-gray-200: #eff2fc;
-  --si-gray-300: #e2e5f1;
-  --si-gray-400: #d4d7e5;
-  --si-gray-500: #b4b7c9;
-  --si-gray-600: #9397ad;
-  --si-gray-700: #565973;
-  --si-gray-800: #33354d;
-  --si-gray-900: #0b0f19;
-  --si-primary: #2078BB;
-  --si-secondary: #eff2fc;
-  --si-success: #22c55e;
-  --si-info: #4c82f7;
-  --si-warning: #ffba08;
-  --si-danger: #ef4444;
-  --si-light: #fff;
-  --si-dark: #0b0f19;
-  --si-primary-rgb: 99, 102, 241;
-  --si-secondary-rgb: 239, 242, 252;
-  --si-success-rgb: 34, 197, 94;
-  --si-info-rgb: 76, 130, 247;
-  --si-warning-rgb: 255, 186, 8;
-  --si-danger-rgb: 239, 68, 68;
-  --si-light-rgb: 255, 255, 255;
-  --si-dark-rgb: 11, 15, 25;
-  --si-white-rgb: 255, 255, 255;
-  --si-black-rgb: 0, 0, 0;
-  --si-body-color-rgb: 86, 89, 115;
-  --si-body-bg-rgb: 255, 255, 255;
-  --si-font-sans-serif: "Manrope", sans-serif;
-  --si-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --si-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-  --si-body-font-family: var(--si-font-sans-serif);
-  --si-body-font-size: 1rem;
-  --si-body-font-weight: 400;
-  --si-body-line-height: 1.6;
-  --si-body-color: #565973;
-  --si-body-bg: #fff;
-  --si-border-width: 1px;
-  --si-border-style: solid;
-  --si-border-color: #e2e5f1;
-  --si-border-color-translucent: rgba(0, 0, 0, 0.175);
-  --si-border-radius: 0.375rem;
-  --si-border-radius-sm: 0.25rem;
-  --si-border-radius-lg: 0.5rem;
-  --si-border-radius-xl: 1rem;
-  --si-border-radius-2xl: 2rem;
-  --si-border-radius-pill: 50rem;
-  --si-heading-color: #0b0f19;
-  --si-link-color: #2078BB;
-  --si-link-hover-color: #3e41ee;
-  --si-code-color: #e3116c;
-  --si-highlight-bg: #fff3cd;
+    --si-blue: #2078BB;
+    --si-indigo: #6610f2;
+    --si-purple: #6f42c1;
+    --si-pink: #d63384;
+    --si-red: #dc3545;
+    --si-orange: #fd7e14;
+    --si-yellow: #ffc107;
+    --si-green: #198754;
+    --si-teal: #20c997;
+    --si-cyan: #0dcaf0;
+    --si-black: #000;
+    --si-white: #fff;
+    --si-gray: #9397ad;
+    --si-gray-dark: #33354d;
+    --si-gray-100: #f3f6ff;
+    --si-gray-200: #eff2fc;
+    --si-gray-300: #e2e5f1;
+    --si-gray-400: #d4d7e5;
+    --si-gray-500: #b4b7c9;
+    --si-gray-600: #9397ad;
+    --si-gray-700: #565973;
+    --si-gray-800: #33354d;
+    --si-gray-900: #0b0f19;
+    --si-primary: #2078BB;
+    --si-secondary: #eff2fc;
+    --si-success: #22c55e;
+    --si-info: #4c82f7;
+    --si-warning: #ffba08;
+    --si-danger: #ef4444;
+    --si-light: #fff;
+    --si-dark: #0b0f19;
+    --si-primary-rgb: 99, 102, 241;
+    --si-secondary-rgb: 239, 242, 252;
+    --si-success-rgb: 34, 197, 94;
+    --si-info-rgb: 76, 130, 247;
+    --si-warning-rgb: 255, 186, 8;
+    --si-danger-rgb: 239, 68, 68;
+    --si-light-rgb: 255, 255, 255;
+    --si-dark-rgb: 11, 15, 25;
+    --si-white-rgb: 255, 255, 255;
+    --si-black-rgb: 0, 0, 0;
+    --si-body-color-rgb: 86, 89, 115;
+    --si-body-bg-rgb: 255, 255, 255;
+    --si-font-sans-serif: "Manrope", sans-serif;
+    --si-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --si-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --si-body-font-family: var(--si-font-sans-serif);
+    --si-body-font-size: 1rem;
+    --si-body-font-weight: 400;
+    --si-body-line-height: 1.6;
+    --si-body-color: #565973;
+    --si-body-bg: #fff;
+    --si-border-width: 1px;
+    --si-border-style: solid;
+    --si-border-color: #e2e5f1;
+    --si-border-color-translucent: rgba(0, 0, 0, 0.175);
+    --si-border-radius: 0.375rem;
+    --si-border-radius-sm: 0.25rem;
+    --si-border-radius-lg: 0.5rem;
+    --si-border-radius-xl: 1rem;
+    --si-border-radius-2xl: 2rem;
+    --si-border-radius-pill: 50rem;
+    --si-heading-color: #0b0f19;
+    --si-link-color: #2078BB;
+    --si-link-hover-color: #3e41ee;
+    --si-code-color: #e3116c;
+    --si-highlight-bg: #fff3cd;
+    --si-laplok-bg: #06538c;
 }
 
 *,
@@ -3036,17 +3037,18 @@ textarea.form-control-lg {
 }
 
 .btn-link {
-  --si-btn-font-weight: 400;
-  --si-btn-color: var(--si-link-color);
-  --si-btn-bg: transparent;
-  --si-btn-border-color: transparent;
-  --si-btn-hover-color: var(--si-link-hover-color);
-  --si-btn-hover-border-color: transparent;
-  --si-btn-active-border-color: transparent;
-  --si-btn-disabled-color: #9397ad;
-  --si-btn-disabled-border-color: transparent;
-  --si-btn-box-shadow: none;
-  text-decoration: underline;
+    --si-btn-font-weight: 400;
+    --si-btn-color: var(--si-link-color);
+    --si-btn-bg: transparent;
+    --si-btn-border-color: transparent;
+    /*--si-btn-hover-color: var(--si-link-hover-color);*/
+    --si-btn-hover-color: var(--si-laplok-bg);
+    --si-btn-hover-border-color: transparent;
+    --si-btn-active-border-color: transparent;
+    --si-btn-disabled-color: #9397ad;
+    --si-btn-disabled-border-color: transparent;
+    --si-btn-box-shadow: none;
+    text-decoration: underline;
 }
 .btn-link:hover, .btn-link:focus {
   text-decoration: none;
@@ -3064,6 +3066,12 @@ textarea.form-control-lg {
   --si-btn-padding-x: 1.25rem;
   --si-btn-font-size: 0.75rem;
   --si-btn-border-radius: 0.25rem;
+}
+.btn-xs, .btn-group-xs > .btn {
+    --si-btn-padding-y: 0.275rem;
+    --si-btn-padding-x: 0.625rem;
+    --si-btn-font-size: 0.375rem;
+    --si-btn-border-radius: 0.25rem;
 }
 
 .fade {
@@ -3488,6 +3496,11 @@ textarea.form-control-lg {
 .btn-sm + .dropdown-toggle-split, .btn-group-sm > .btn + .dropdown-toggle-split {
   padding-right: 0.9375rem;
   padding-left: 0.9375rem;
+}
+
+.btn-xs + .dropdown-toggle-split, .btn-group-sm > .btn + .dropdown-toggle-split {
+    padding-right: 0.4375rem;
+    padding-left: 0.4375rem;
 }
 
 .btn-lg + .dropdown-toggle-split, .btn-group-lg > .btn + .dropdown-toggle-split {
@@ -6516,8 +6529,12 @@ textarea.form-control-lg {
 }
 
 .shadow-primary {
-  box-shadow: 0 0.5rem 1.125rem -0.5rem rgba(99, 102, 241, 0.9) !important;
+  box-shadow: 0 0.5rem 1.125rem -0.5rem rgba(19, 76, 120, 0.9) !important;
 }
+/*.shadow-primary {
+    box-shadow: 0 0.5rem 1.125rem -0.5rem rgba(99, 102, 241, 0.9) !important;
+}*/
+
 
 .shadow-secondary {
   box-shadow: 0 0.5rem 1.125rem -0.5rem rgba(11, 15, 25, 0.15) !important;
@@ -7605,7 +7622,8 @@ textarea.form-control-lg {
 }
 
 .fs-xs {
-  font-size: 0.75rem !important;
+  /*font-size: 0.75rem !important;*/
+  font-size:0.5rem !important;
 }
 
 .fst-italic {
@@ -7787,9 +7805,14 @@ textarea.form-control-lg {
   --si-text-opacity: 1;
 }
 
-.bg-primary {
+/*.bg-primary {
   --si-bg-opacity: 1;
   background-color: rgba(var(--si-primary-rgb), var(--si-bg-opacity)) !important;
+}*/
+
+.bg-primary {
+    --si-bg-opacity: 1;
+    background-color: #1976BA;
 }
 
 .bg-secondary {
@@ -12231,13 +12254,13 @@ html:not([dir=rtl]) .range-slider-ui.noUi-horizontal .noUi-handle {
 }
 
 .btn-primary {
-  --si-btn-hover-color: #fff;
-  --si-btn-active-color: #fff;
-  --si-btn-hover-bg: #4044ee;
-  --si-btn-active-bg: #4044ee;
-  --si-btn-hover-border-color: #4044ee;
-  --si-btn-active-border-color: #4044ee;
-  --si-btn-disabled-color: #fff;
+    --si-btn-hover-color: #fff;
+    --si-btn-active-color: #fff;
+    --si-btn-hover-bg: #388dcc;
+    --si-btn-active-bg: #388dcc;
+    --si-btn-hover-border-color: #388dcc;
+    --si-btn-active-border-color: #388dcc;
+    --si-btn-disabled-color: #fff;
 }
 
 .btn-secondary {
@@ -12405,6 +12428,10 @@ html:not([dir=rtl]) .range-slider-ui.noUi-horizontal .noUi-handle {
   --si-btn-size: 2.25rem;
   --si-btn-icon-size: 1.125rem;
 }
+    .btn-icon.btn-xs, .btn-group-xs > .btn-icon.btn {
+        --si-btn-size: 1.125rem;
+        --si-btn-icon-size: 0.625rem;
+    }
 .btn-icon.btn-lg, .btn-group-lg > .btn-icon.btn {
   --si-btn-size: 3.25rem;
   --si-btn-icon-size: 1.4375rem;

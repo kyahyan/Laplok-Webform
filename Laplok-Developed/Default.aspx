@@ -71,7 +71,7 @@
                   
               </div>
               <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-lg-start py-4 py-lg-5">
-                <a href="whylaplok.html" class="btn btn-primary shadow-primary btn-lg me-sm-3 me-xl-4 mb-3">Learn More</a>
+                <a href="/whylaplok" class="btn btn-primary shadow-primary btn-lg me-sm-3 me-xl-4 mb-3">Learn More</a>
 
               </div>
           
