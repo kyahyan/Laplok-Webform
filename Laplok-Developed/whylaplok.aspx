@@ -43,7 +43,9 @@
             </div>
           </div>
           <div class="col-md-6 col-lg-5 col-xl-6 offset-xl-1 order-md-1 pb-md-4">
-            <h2 class="pb-3 text-light">It's the ultimate pocket-sized anti-theft device designed to conveniently secure your laptop any time, any place.</h2>
+            <h3 class="pb-3 text-light"><br />LapLok is bringing security, protection, and safety up to speed with the work-from-anywhere movement
+that’s skyrocketed over the past few years alone.<br /> It&#39;s the ultimate pocket-sized anti-theft device designed to
+conveniently secure your laptop any time, any place.</h3>
           
           </div>
         </div>
@@ -55,7 +57,8 @@
             </div>
           </div>
           <div class="col-md-6 col-xl-5 offset-lg-1">  
-            <h2 class="pb-3 text-light">LapLok makes it easy for you to move around while working remotely because you know your device and data aren’t going anywhere—no matter how hard a thief might try.</h2>
+            <h3 class="pb-3 text-light">LapLok means you can work confidently and calmly with the peace of mind of knowing your device and
+data aren’t going anywhere - even if you step away for a few minutes here and there.</h3>
         
           </div>
         </div>
@@ -87,8 +90,8 @@
                     Stolen
                    
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">Over 1600 Laptops are stolen
-                    every day</p>
+                  <p class="fs-4 fw-500 text-body mb-0">More than 1,600 laptops are stolen every single day. LapLok ensures your device doesn’t become another
+statistic.</p>
                 </div>
               </div>
             </div>
@@ -103,7 +106,8 @@
                   <h2 class="h4 d-inline-flex align-items-center">
                     Data Backup
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">If the automated backup isn't enabled, you can lose your work and your device</p>
+                  <p class="fs-4 fw-500 text-body mb-0">If you don’t have automated backup enabled, you could lose all the valuable work on your device when it&#39;s
+stolen. Protect the work you’ve done.</p>
                 </div>
               </div>
             </div>
@@ -118,7 +122,8 @@
                   <h2 class="h4 d-inline-flex align-items-center">
                     Over Half
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">Over 50% of people surveyed reported leaving their laptop unattended for less than 5 minutes</p>
+                  <p class="fs-4 fw-500 text-body mb-0">Over half of people report leaving their laptops unattended for less than five minutes. It doesn&#39;t take more
+than a few seconds to get yours stolen.</p>
                 </div>
               </div>
             </div>
@@ -133,7 +138,8 @@
                   <h2 class="h4 d-inline-flex align-items-center">
                     Lost Laptops
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">You can get fired if your company-owned laptop is stolen</p>
+                  <p class="fs-4 fw-500 text-body mb-0">You can easily get fined, punished, and even fired if your company-owned laptop gets stolen. LapLok can
+protect your device and your career.</p>
                 </div>
               </div>
             </div>
@@ -148,7 +154,8 @@
                   <h2 class="h4 d-inline-flex align-items-center">
                     Public Locations
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">Common areas such as coffee shops & restaurants are the highest targeted locations</p>
+                  <p class="fs-4 fw-500 text-body mb-0">Common areas where you’d least expect a theft to occur such as coffee shops and restaurants are the
+highest-targeted locations for laptop theft. Now, you can feel safe anywhere.</p>
                 </div>
               </div>
             </div>
@@ -163,7 +170,8 @@
                   <h2 class="h4 d-inline-flex align-items-center">
                     Cost
                   </h2>
-                  <p class="fs-4 fw-500 text-body mb-0">Laptop theft costs businesses 5 billion dollars in annual loss. It takes about nine days to replace a work laptop</p>
+                  <p class="fs-4 fw-500 text-body mb-0">Laptop theft is expensive. It amounts to roughly 5 billion in annual losses, and it takes around 9 days to
+replace a work laptop.</p>
                 </div>
               </div>
             </div>
