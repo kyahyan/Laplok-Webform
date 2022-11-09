@@ -43,9 +43,9 @@
             </div>
           </div>
           <div class="col-md-6 col-lg-5 col-xl-6 offset-xl-1 order-md-1 pb-md-4">
-            <h3 class="pb-3 text-light"><br />LapLok is bringing security, protection, and safety up to speed with the work-from-anywhere movement
+            <h2 class="pb-3 text-light fs-4"><br />LapLok is bringing security, protection, and safety up to speed with the work-from-anywhere movement
 that’s skyrocketed over the past few years alone.<br /> It&#39;s the ultimate pocket-sized anti-theft device designed to
-conveniently secure your laptop any time, any place.</h3>
+conveniently secure your laptop any time, any place.</h2>
           
           </div>
         </div>
@@ -57,8 +57,8 @@ conveniently secure your laptop any time, any place.</h3>
             </div>
           </div>
           <div class="col-md-6 col-xl-5 offset-lg-1">  
-            <h3 class="pb-3 text-light">LapLok means you can work confidently and calmly with the peace of mind of knowing your device and
-data aren’t going anywhere - even if you step away for a few minutes here and there.</h3>
+            <h2 class="pb-3 text-light fs-4">LapLok means you can work confidently and calmly with the peace of mind of knowing your device and
+data aren’t going anywhere - even if you step away for a few minutes here and there.</h2>
         
           </div>
         </div>
@@ -78,7 +78,11 @@ data aren’t going anywhere - even if you step away for a few minutes here and 
             
           </div>
           <div class="row row-cols-1 row-cols-md-2">
-
+              
+               <div class="col col-lg-12 col-md-10 ml-lg-5 ps-lg-5 pb-sm-0 pt-sm-0 mt-sm-0 pb-5 text-center">
+                <h1 class="display-5 text-dark pt-sm-2">Why is LapLok so critical?</h1>
+            
+              </div>
             <!-- Item -->
             <div class="col py-4 my-2 my-sm-3">
               <div class="card card-hover h-100 border-0 shadow-sm text-decoration-none pt-5 px-sm-3 px-md-0 px-lg-3 pb-sm-3 pb-md-0 pb-lg-3 me-xl-2">

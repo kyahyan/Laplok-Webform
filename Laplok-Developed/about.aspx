@@ -34,21 +34,22 @@
             <div class="pe-lg-4 pe-xl-5">
               <div class="text-center text-lg-end pb-2 mb-4 mb-xl-5">
                 <img src="assets/img/services/single/icons/05.svg" class="d-inline-block" width="56" alt="Icon">
-                <h3 class="h5 pt-1 my-2">True Teammates</h3>
-                <p class="fs-sm mb-0">Mi ac neque gravida sit tellus elit tellus nunc ultricies semper velit sagittis</p>
+                <h3 class="h5 pt-1 my-2">Commitment</h3>
+                <p class="fs-sm mb-0">We measure our own success by the satisfaction of our customers which is why we’re committed to
+            providing top-of-the-line products that keep our clients and their belongings safe. We’re dedicated to always
+            looking for ways to improve so you always get the best.</p>
               </div>
               <div class="text-center text-lg-end pb-2 mb-4 mb-xl-5">
                 <img src="assets/img/services/single/icons/03.svg" class="d-inline-block" width="56" alt="Icon">
-                <h3 class="h5 pt-1 my-2">Unwavering Intergrity</h3>
-                <p class="fs-sm mb-0">Diam sed sit praesent in porttitor mi posuere sem in sit arcu massa</p>
+                <h3 class="h5 pt-1 my-2">Gratitude</h3>
+                <p class="fs-sm mb-0">We firmly believe that gratitude is the best attitude. It allows us to focus on what we have, appreciate it
+              regularly, and stay centered on our mission. We’re wholly grateful for every customer who uses our
+            products as we know you’re the driver of our success.</p>
               </div>
-              <div class="text-center text-lg-end">
-                <img src="assets/img/services/single/icons/02.svg" class="d-inline-block" width="56" alt="Icon">
-                <h3 class="h5 pt-1 my-2">Positive and Optimistic</h3>
-                <p class="fs-sm mb-0">Mi habitasse in mollis orci elementum duis ultricies vehicula nullam tristique</p>
-              </div>
+           
             </div>
           </div>
+            
           <div class="col-lg-6 d-none d-lg-block">
             <div class="ratio ratio-1x1 border rounded-circle position-relative mx-auto" style="max-width: 580px;">
               <div class="p-5">
@@ -58,11 +59,23 @@
           </div>
           <div class="col-sm-6 col-lg-3">
             <div class="ps-lg-4 ps-xl-5">
+                 <div class="text-center text-lg-start pb-2 mb-4 mb-xl-5">
+                <img src="assets/img/services/single/icons/02.svg" class="d-inline-block" width="56" alt="Icon">
+                <h3 class="h5 pt-1 my-2">Customer Excellence</h3>
+                <p class="fs-sm mb-0">The new mobile workforce is in need of modern and advanced tools to become successful in this new age.
+At Techlok Solutions, we’re committed to helping our customers achieve excellence by providing the
+security solutions they need in the work-from-anywhere movement.</p>
+              </div>
               <div class="text-center text-lg-start pb-2 mb-4 mb-xl-5">
                 <img src="assets/img/services/single/icons/04.svg" class="d-inline-block" width="56" alt="Icon">
-                <h3 class="h5 pt-1 my-2">Customer Obsessed</h3>
-                <p class="fs-sm mb-0">We prove it every day with Our words and actions</p>
+                <h3 class="h5 pt-1 my-2">Imagination</h3>
+                <p class="fs-sm mb-0">We’re a forward-thinking company that places innovation and creativity at the forefront of our products and
+developments. We’re always using our imagination to come up with out-of-the-box solutions that solve
+actually client problems.</p>
+                 
               </div>
+                  
+                <!--
               <div class="text-center text-lg-start pb-2 mb-4 mb-xl-5">
                 <img src="assets/img/services/single/icons/01.svg" class="d-inline-block" width="56" alt="Icon">
                 <h3 class="h5 pt-1 my-2">Get Our uniform Dirty</h3>
@@ -73,9 +86,12 @@
                 <h3 class="h5 pt-1 my-2">Choose to Drive Change</h3>
                 <p class="fs-sm mb-0">Pellentesque rhoncus viverra vestibulum, purus purus</p>
               </div>
+
+            -->
+                </div>
             </div>
           </div>
-        </div>
+     
       </section>
 
   <!-- Image + Text sections -->
@@ -89,7 +105,8 @@
       <div class="col-md-6">
         <div class="ps-xl-5 ms-md-2 ms-lg-4">
           <h2 class="h1 mb-3 mb-sm-4">Our mission</h2>
-          <p class="fs-5 fw-500 mb-4 mb-lg-5">Provide elegant, affordable security products that give our customers peace of mind.</p>
+          <p class="fs-5 fw-500 mb-4 mb-lg-5">We’re on a mission to provide an elegant, advanced, and effective security solution that can give on-the-go
+professionals the peace of mind needed to lead successful careers no matter where work takes them.</p>
           
         </div>
       </div>
@@ -103,7 +120,12 @@
       <div class="col-md-6 order-md-1">
         <div class="pe-xl-5 me-md-2 me-lg-4">
           <h2 class="h1 mb-3 mb-sm-4">Our vision</h2>
-          <p class="fs-5 fw-500 mb-3 mb-sm-4">Be the most innovative security brand for people who want to work just about anywhere.</p>
+          <p class="fs-5 fw-500 mb-3 mb-sm-4">We envision a future where the Techlok Solutions brand is synonymous with quality and cost-effective
+device protection across the globe. The work-from-anywhere trend is a global phenomenon transforming
+the way people in all countries and industries do business. </p>
+
+ <p class="fs-5 fw-500 mb-3 mb-sm-4">Techlok Solutions will provide the advanced security means to support the transition to a more mobile
+workforce.</p>
           
         </div>
       </div>

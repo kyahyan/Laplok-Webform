@@ -263,7 +263,7 @@
                   type="button" data-bs-toggle="collapse" data-bs-target="#q-14" 
                   aria-expanded="false" aria-controls="q-14">What if I forgot my unique pin code?</button>
                 </h3>
-                <div class="accordion-collapse collapse" id="q-7" data-bs-parent="#faq">
+                <div class="accordion-collapse collapse" id="q-14" data-bs-parent="#faq">
                   <div class="accordion-body fs-sm pt-0">
                     <p> We require all users to register their pin on our website on this page (link). We can then automatically resend your pin code. However, we suggest you store your Pin on your smart phone with your other important passwords. If you do not register, we have no other way to remind you of this code. You can also contact the company for advice and assistance in removing the device manually.</p>
                   </div>
