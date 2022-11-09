@@ -9,8 +9,8 @@
                   <div class="row justify-content-center text-center pb-sm-2 py-lg-5">
                     <div class="col-xl-8 col-lg-9 col-md-10 py-5">
                       <h1 class="display-4 text-light pt-lg-1 pt-sm-5 pb-1 pb-sm-3 mb-2 pt-4">Next Generation Laptop Security.</h1>
-                      <h2 class="h3 pb-2 pb-lg-3 text-light">Intelligent systems are technologically advanced machines,
-                        <br/>that perceive and respond to the world around them.</h2>
+                      <h2 class="h3 pb-2 pb-lg-3 text-light">We’re providing the future of the mobile workforce with advanced protective tools and systems needed to
+stay safe and protected while working anywhere, at any time.</h2>
                     
                     </div>
                   </div>
@@ -32,8 +32,9 @@
           <div class=" col-md-6" >
             <div class="ps-md-4 ms-md-2 mt-5">
               <h2 class="h3 pt-5">Works with all Laptops &amp; tablets</h2>
-              <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Malesuada eu cursus natoque purus ipsum nunc, velit cras tellus. Maecenas viverra pellentesque at ultrices purus vitae quis erat volutpat. Turpis auctor neque bibendum id pellentesque ut egestas. Donec ut faucibus nisl nec at purus. Cursus vel gravida gravida purus varius feugiat.Semper mauris id adipiscing est. Nam leo rutrum gravida curabitur at vel risus.</p>
-             
+              <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Your workflow relies on a host of devices which is why LapLok is designed to accommodate all laptops and
+tablets no matter the brand or design. This gives you ultimate protection over your entire suite of devices. <br /> Additionally, if you have multiple devices you can buy an additional mount arm to use LapLok with multiple
+devices.</p>
             </div>
           </div>
         </div>
@@ -48,8 +49,10 @@
           <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
             <div class="pe-md-4 me-md-2">
                 <h2 class="h3 pt-5">A 100-Decibel Optional Alarm Alerts You of Snatchers</h2>
-                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Malesuada eu cursus natoque purus ipsum nunc, velit cras tellus. Maecenas viverra pellentesque at ultrices purus vitae quis erat volutpat. Turpis auctor neque bibendum id pellentesque ut egestas. Donec ut faucibus nisl nec at purus. Cursus vel gravida gravida purus varius feugiat.Semper mauris id adipiscing est. Nam leo rutrum gravida curabitur at vel risus.</p>
-               
+                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">You and everyone in the vicinity of your laptop will be alerted to any attempted theft with an adjustable
+                    alarm.
+                     You can set LapLok to high, medium, low volume, or off altogether depending on your specific needs and
+                      location demands.</p>
             </div>
           </div>
         </div>
@@ -64,8 +67,9 @@
           <div class=" col-md-6 pt-md-4 pt-lg-5" >
             <div class="ps-md-4 ms-md-2">
                 <h2 class="h3 pt-5">No More bulky cable ties</h2>
-                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Malesuada eu cursus natoque purus ipsum nunc, velit cras tellus. Maecenas viverra pellentesque at ultrices purus vitae quis erat volutpat. Turpis auctor neque bibendum id pellentesque ut egestas. Donec ut faucibus nisl nec at purus. Cursus vel gravida gravida purus varius feugiat.Semper mauris id adipiscing est. Nam leo rutrum gravida curabitur at vel risus.</p>
-               
+                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Keep those awkward, bulky, and heavy bulky cable ties where they belong - tying down bikes and other
+large items. LapLok is a one-of-a-kind, convenient, lightweight, and highly portable anti-theft device that doesn&#39;t need a
+lock slot or cable port to work.</p>
             </div>
           </div>
         </div>
@@ -79,8 +83,9 @@
           <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
             <div class="pe-md-4 me-md-2">
                 <h2 class="h3 pt-5">Intelligent Password Management</h2>
-                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Malesuada eu cursus natoque purus ipsum nunc, velit cras tellus. Maecenas viverra pellentesque at ultrices purus vitae quis erat volutpat. Turpis auctor neque bibendum id pellentesque ut egestas. Donec ut faucibus nisl nec at purus. Cursus vel gravida gravida purus varius feugiat.Semper mauris id adipiscing est. Nam leo rutrum gravida curabitur at vel risus.</p>
-              
+                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Easily manage your passwords directly from the LapLok system so you can easily change your code when
+necessary. The password system is highly secure and easy to use. It just takes a few minutes to come up with an
+entirely new password, and you don&#39;t have to log in to another system or download an app.</p>
             </div>
           </div>
         </div>
@@ -94,8 +99,8 @@
           <div class=" col-md-6 pt-md-4 pt-lg-5" >
             <div class="ps-md-4 ms-md-2">
                 <h2 class="h3 pt-5">Security and Convenience Combined</h2>
-                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">Malesuada eu cursus natoque purus ipsum nunc, velit cras tellus. Maecenas viverra pellentesque at ultrices purus vitae quis erat volutpat. Turpis auctor neque bibendum id pellentesque ut egestas. Donec ut faucibus nisl nec at purus. Cursus vel gravida gravida purus varius feugiat.Semper mauris id adipiscing est. Nam leo rutrum gravida curabitur at vel risus.</p>
-               
+                <p class="d-md-none d-lg-block pb-3 mb-2 mb-md-3">You no longer have to make a choice between security and convenience. LapLok gives you both in a sleek,
+easy-to-carry, and highly secure anti-theft device.</p>
             </div>
           </div>
         </div>
@@ -117,7 +122,8 @@
           </div>
         </div>
 
-        <div class="position-relative bg-dark rounded-3 overflow-hidden px-5">
+          <!--For Large Viewport-->
+        <div class="position-relative bg-dark rounded-3 overflow-hidden px-5 d-none d-md-block">
           <div class="position-relative zindex-2 mx-auto" style="max-width: 852px;">
             <img src="assets/img/product.png" class="d-block" alt="product">
 
@@ -177,6 +183,68 @@
             </div>
           </div>
         </div>
+
+           <!--For Small Viewport-->
+
+           <div class="position-relative bg-dark rounded-3 overflow-hidden px-5 d-md-none">
+          <div class="position-relative zindex-2 mx-auto" style="max-width: 852px;">
+            <img src="assets/img/product.png" class="d-block mt-1" alt="product">
+
+            <!-- Hotspot -->
+            <div class="d-flex align-items-center position-absolute" style="top: 10%; left: 65.7%;">
+              <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">1</div>
+              <div class="fs-xs text-white opacity-70 ms-2 d-md-none">Code Button</div>
+            </div>
+            <!-- Hotspot -->
+            <div class="d-flex align-items-center position-absolute" style="top: -1%; left: 47.7%;" height="16" width="16">
+             <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">3</div>
+              
+              <div class="fs-xs text-white opacity-70 ms-2 d-md-none">LEDs</div>
+            </div>
+
+            <!-- Hotspot -->
+            <div class="d-flex align-items-center position-absolute" style="top: 1.2%; right: 55.3%;">
+              <div class="fs-xs text-white opacity-70 me-2 d-md-none">Lock Button</div>
+              <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">2</div>
+            </div>
+
+               
+            <!-- Hotspot -->
+            <div class="d-flex align-items-center position-absolute" style="top: 22.8%; right: -4%;">
+              
+              <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">4</div>
+               <br />   
+              <div class="fs-xs text-white opacity-70 ms-1 d-md-none ">100 dB alarm</div>
+            </div>
+               <!-- Hotspot -->
+            <div class="d-flex align-items-center position-absolute" style="top: 12%; left: -1%;">
+             
+              <div class="fs-xs text-white opacity-70 me-1 d-md-none">Anti-Theft Sensor</div>
+              <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">5</div>
+            </div>
+
+            <!-- Hotspot -->
+            <div class="d-flex align-items-center position-absolute" style="top: 41%; left: 5.8%;">
+              <div class="fs-xs text-white opacity-70 me-2 d-md-none">Hammerguard</div>
+              <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">6</div>
+            </div>
+
+            <!-- Hotspot -->
+            <div class="d-flex align-items-center position-absolute" style="top: 62%; right: 60.5%;">
+             
+              <div class="fs-xs text-white opacity-70 me-2 text-end d-md-none">Steel Upright</div>
+              <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">7</div>
+            </div>
+
+            <!-- Hotspot -->
+            <div class="d-flex align-items-center position-absolute" style="top: 59%; left: 72.5%;">
+              <div class="btn btn-icon btn-primary bg-transparent fs-xs text-white fw-bold rounded-circle pe-none btn-xs">8</div>
+            
+              <div class="fs-xs text-white opacity-70 ms-2 d-md-none ">Soft Rubber Pads</div>
+            </div>
+          </div>
+        </div>
+
         <div class="gallery row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-2 row-cols-xl-3 g-4" data-video="true">
           <div class="col">
             <a href="assets/img/portfolio/courses/02.jpg" class="gallery-item rounded-3" data-sub-html='<h6 class="fs-sm text-light">Image 1</h6>'>
