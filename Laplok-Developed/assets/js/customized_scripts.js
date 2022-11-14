@@ -1,10 +1,13 @@
-const nextBtn = document.querySelectorAll('#next-step');
-      nextBtn.forEach(function(item,index){
-        item.addEventListener('click',function(){
-          let id = index + 1;
-          let tabElement = document.querySelectorAll(".nav-tabs li button")[id];
-          var lastTab = new bootstrap.Tab(tabElement);
-          lastTab.show();
-        });
 
-      });
+
+$('.nextBtn').click(function () {
+    const nextTabLinkEl = $(".nav-tabs .active").closest("li").next("li").find("a")[0];
+    const nextTab = new bootstrap.Tab(nextTabLinkEl);
+    nextTab.show();
+});
+
+$('.prevBtn').click(function () {
+    const prevTabLinkEl = $(".nav-tabs .active").closest("li").prev("li").find("a")[0];
+    const prevTab = new bootstrap.Tab(prevTabLinkEl);
+    prevTab.show();
+});

@@ -47,39 +47,39 @@ device or simply scroll down for step-by-step instructions.</div>
     <!-- Nav tabs -->
     <ul  class="nav nav-tabs flex-nowrap justify-content-lg-center overflow-auto pb-2 mb-3 mb-lg-4" role="tablist">
       <li class="nav-item" role="presentation">
-        <button class="nav-link text-nowrap active" id="education-tab" data-bs-toggle="tab" data-bs-target="#education" type="button" role="tab" aria-controls="education" aria-selected="true">
+        <a class="nav-link text-nowrap active" id="education-tab" data-bs-toggle="tab" data-bs-target="#education" type="button" role="tab" aria-controls="education" aria-selected="true">
           Step 1
-        </button>
+        </a>
       </li>
       <li class="nav-item" role="presentation">
-        <button class="nav-link text-nowrap" id="ecommerce-tab" data-bs-toggle="tab" data-bs-target="#ecommerce" type="button" role="tab" aria-controls="ecommerce" aria-selected="false">
+        <a class="nav-link text-nowrap" id="ecommerce-tab" data-bs-toggle="tab" data-bs-target="#ecommerce" type="button" role="tab" aria-controls="ecommerce" aria-selected="false">
           
           Step 2
-        </button>
+        </a>
       </li>
       <li class="nav-item" role="presentation">
-        <button class="nav-link text-nowrap" id="sports-tab" data-bs-toggle="tab" data-bs-target="#sports" type="button" role="tab" aria-controls="sports" aria-selected="false">
+        <a class="nav-link text-nowrap" id="sports-tab" data-bs-toggle="tab" data-bs-target="#sports" type="button" role="tab" aria-controls="sports" aria-selected="false">
          
           Step 3
-        </button>
+        </a>
       </li>
       <li class="nav-item" role="presentation">
-        <button class="nav-link text-nowrap" id="construction-tab" data-bs-toggle="tab" data-bs-target="#construction" type="button" role="tab" aria-controls="construction" aria-selected="false">
+        <a class="nav-link text-nowrap" id="construction-tab" data-bs-toggle="tab" data-bs-target="#construction" type="button" role="tab" aria-controls="construction" aria-selected="false">
          
           Step 4
-        </button>
+        </a>
       </li>
       <li class="nav-item" role="presentation">
-        <button class="nav-link text-nowrap" id="medicine-tab" data-bs-toggle="tab" data-bs-target="#medicine" type="button" role="tab" aria-controls="medicine" aria-selected="false">
+        <a class="nav-link text-nowrap" id="medicine-tab" data-bs-toggle="tab" data-bs-target="#medicine" type="button" role="tab" aria-controls="medicine" aria-selected="false">
         
           Step 5
-        </button>
+        </a>
       </li>
       <li class="nav-item" role="presentation">
-        <button class="nav-link text-nowrap" id="real-estate-tab" data-bs-toggle="tab" data-bs-target="#real-estate" type="button" role="tab" aria-controls="real-estate" aria-selected="false">
+        <a class="nav-link text-nowrap" id="real-estate-tab" data-bs-toggle="tab" data-bs-target="#real-estate" type="button" role="tab" aria-controls="real-estate" aria-selected="false">
         
           Step 6
-        </button>
+        </a>
       </li>
     </ul>
 
@@ -91,12 +91,13 @@ device or simply scroll down for step-by-step instructions.</div>
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
             <h3 class="mb-lg-4">Install semi-permanent mounting arm</h3>
-            <p>First, make sure that your LapLok has a clean surface that you can adhere the mounting arm to. Clean your device with the included cleaning wipe & primer. This assures that good contact will be made. </p>
+            <p>First, make sure that your LapLok has a clean surface that you can adhere the mounting arm to.</p>
+                <p>Clean your device with the included cleaning wipe & primer. This assures that good contact will be made. </p>
             <p>Then, install semi-permanent adhesive mounting arm.</p>
           
-            <button class="btn btn-primary" id="next-step">
-              Next Step
-            </button>
+            <a class="btn btn-primary nextBtn">
+              Next
+            </a>
             
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
@@ -112,11 +113,14 @@ device or simply scroll down for step-by-step instructions.</div>
             <h3 class="mb-lg-4">Swing out the mounting arm</h3>
             <p>Take the mounting arm and swing it out to give the space for your LapLok to connect.</p>
        
-            <button class="btn btn-primary" id="next-step">
-              Next Step
-            </button>
+               <a class="btn btn-primary prevBtn">
+             Back
+            </a>
+             <a class="btn btn-primary nextBtn">
+              Next
+            </a>
               
-            </button>
+           
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/2.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
@@ -129,10 +133,14 @@ device or simply scroll down for step-by-step instructions.</div>
         <div class="row align-items-center pt-3 pt-sm-4 pt-md-0 px-3 px-sm-4 px-lg-0">
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
             <h3 class="mb-lg-4">Adjust the lower arm to the height of the table</h3>
-            <p>Take your LapLok and measure the surface height that you wish to install it on. Then, adjust the lower arm to the height of the table. You will be moving this later on to ensure a safe connection.</p>
-            <button class="btn btn-primary" id="next-step">
-              Next Step
-            </button>
+            <p>Take your LapLok and measure the surface height that you wish to install it on.</p>
+              <p>Then, adjust the lower arm to the height of the table. You will be moving this later on to ensure a safe connection.</p>
+           <a class="btn btn-primary prevBtn">
+             Back
+            </a>
+              <a class="btn btn-primary nextBtn">
+              Next
+            </a>
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/3.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
@@ -146,9 +154,12 @@ device or simply scroll down for step-by-step instructions.</div>
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
             <h3 class="mb-lg-4">Put the mount arm into the mouth of the LapLok</h3>
             <p>Take the arm that's attached to your computer and place LapLok into the mount of the locking arm.  </p>
-            <button class="btn btn-primary" id="next-step">
-              Next Step
-            </button>
+          <a class="btn btn-primary prevBtn">
+             Back
+            </a>
+              <a class="btn btn-primary nextBtn">
+              Next
+            </a>
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/4.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
@@ -162,9 +173,12 @@ device or simply scroll down for step-by-step instructions.</div>
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
             <h3 class="mb-lg-4">Raise the lower arm to the bottom of the table</h3>
             <p>Take the lower arm of LapLok and raise it to the same level of the surface you're securing it to. </p>
-            <button class="btn btn-primary" id="next-step">
-              Next Step
-            </button>
+            <a class="btn btn-primary prevBtn">
+             Back
+            </a>
+              <a class="btn btn-primary nextBtn">
+              Next
+            </a>
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/5.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
@@ -178,9 +192,13 @@ device or simply scroll down for step-by-step instructions.</div>
           <div class="col-lg-4 col-md-5 offset-lg-1 text-center text-md-start">
             <h3 class="mb-lg-4">Pull the top Laplok down to secure</h3>
             <p>When your LapLok is in place, pull down to secure. It's that easy. </p>
+           <a class="btn btn-primary prevBtn">
+             Back
+            </a>
           </div>
           <div class="col-lg-6 col-md-7 mt-2 mb-3 mt-md-3">
             <img src="assets/img/services/industries/6.jpg" class="d-block rounded-3 my-lg-2 mx-auto me-md-0" width="564" alt="Image">
+          
           </div>
         </div>
       </div>

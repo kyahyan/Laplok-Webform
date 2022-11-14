@@ -18,8 +18,8 @@
 
                   
                 <h1 class="fs-4 d-xl-block pb-lg-4 pb-sm-5">Real-world protection when the world is your office</h1>
-                  <p class="fs-5">Airports, cafes, restaurants, high schools, colleges, even shared workspaces. They&#39;re all hotbeds for laptop
-theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
+                  <p class="fs-5">Airports, cafes, restaurants, high schools, colleges, even shared workspaces.</p>
+                  <p class="fs-5">They&#39;re all hotbeds for laptop theft. And now that the world is your office, laptop thieves are in more places than ever before.</p>
                   <p class="fs-5">LapLok is a new pocket-sized security guard designed to keep your devices secure anytime, anyplace.</p>
                 
 
@@ -65,13 +65,10 @@ theft. And now that the world is your office, laptop thieves are in more places 
               <h1 class="display-6 pb-lg-3 mb-3">Why Laplok?</h1>
               <div class="d-flex justify-content-center justify-content-lg-start text-start mb-2">
                
-                <div class="fs-xl">Every 53 seconds, someone is the victim of laptop theft. If you’re an on-the-go professional, this represents
-a significant risk.
-                 The professional world is moving increasingly remote, but there’s a greater risk when working outside of an
-office or home.
-                    <br />
-                    That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is
-the perfect solution for keeping your laptop safe no matter where in the world you’re working.
+                <div class="fs-xl"><p class=" d-lg-block pb-2 mb-1 mb-md-2">Every 53 seconds, someone is the victim of laptop theft. If you’re an on-the-go professional, this represents a significant risk.
+                    </p>
+                    <p class=" d-lg-block pb-2 mb-1 mb-md-2">That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is
+the perfect solution for keeping your laptop safe no matter where in the world you’re working.</p>
                  
                </div>
                   
@@ -204,11 +201,10 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Aircraft-Grade Aluminum</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">Laplok is designed with the highest-grade and highest-performing materials in the world. 
-                        <br />Premium steel and aircraft-grade aluminum make for a simultaneously lightweight and sturdy design that&#39;s convenient for
-                                world travel while offering unrivaled levels of protection from theft.
-                    </p>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3"> This creative and innovative design makes Laplok one of the most unique items of its kind on the market.</p>
+                   <p class=" d-lg-block pb-2 mb-1 mb-md-2">Laplok is designed with the highest-grade and highest-performing materials in the world. </p>
+                        <p class=" d-lg-block pb-2 mb-1 mb-md-2"> Premium steel and aircraft-grade aluminum make for a simultaneously lightweight and sturdy design that&#39;s convenient for
+                                world travel while offering unrivaled levels of protection from theft.</p>
+                    <p class=" d-lg-block pb-2 mb-1 mb-md-2"> This creative and innovative design makes Laplok one of the most unique items of its kind on the market.</p>
                   </div>
                 </div>
               </div>
@@ -223,15 +219,15 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Next Generation Locking Solutions</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">
-                       Traditional methods of protecting unaccompanied laptops have been ineffective and impractical.
-                        <br />
-                        LapLok is a next-generation locking solution that allows users to secure their laptops anywhere they work.
+                    <p class=" d-lg-block pb-2 mb-1 mb-md-2">
+                       Traditional methods of protecting unaccompanied laptops have been ineffective and impractical. </p>
+                     
+                         <p class=" d-lg-block pb-2 mb-1 mb-md-2">LapLok is a next-generation locking solution that allows users to secure their laptops anywhere they work.
                         This is the most high-tech and modern solution available, making it a must-have for work-from-anywhere
                         professionals.
 
                     </p>
-                   <p class=" d-lg-block pb-3 mb-2 mb-md-3">This intelligent device has an adjustable arm, 
+                   <p class=" d-lg-block pb-2 mb-1 mb-md-2">This intelligent device has an adjustable arm, 
                        an alarm, an accelerometer, and a host of other security
                        features to keep your device safe.</p>
             
@@ -250,9 +246,11 @@ and compact design. It&#39;s about the size of a smartphone when’s under 1LB.<
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Software Enabled Password Management</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">Take full control of your passwords with Laplok&#39;s built-in password management algorithm. Say goodbye to
+                   <p class=" d-lg-block pb-2 mb-1 mb-md-2">Take full control of your passwords with Laplok&#39;s built-in password management algorithm. </p>
+                       
+                       <p class=" d-lg-block pb-2 mb-1 mb-md-2">Say goodbye to
 annoying and inefficient physical keys and hello to advanced and secure cloud password technology.</p>
-                      <p class=" d-lg-block pb-3 mb-2 mb-md-3">You can easily reset &amp; recover passwords when necessary due to employee changes or if a code is
+                      <p class=" d-lg-block pb-2 mb-1 mb-md-2">You can easily reset &amp; recover passwords when necessary due to employee changes or if a code is
 forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                   </div>
                 </div>
@@ -268,7 +266,9 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
                     <h2 class="h3">Dual Purpose Functionality</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">You&#39;re rarely working alone with just a laptop. Typically, it&#39;s accompanied by an entire bag of belongings
+                   <p class=" d-lg-block pb-2 mb-1 mb-md-2">You&#39;re rarely working alone with just a laptop. </p>
+                       
+                       <p class=" d-lg-block pb-2 mb-1 mb-md-2">Typically, it&#39;s accompanied by an entire bag of belongings
                                                     you need to keep safe too. That&#39;s why we&#39;ve equipped Laplok with a built-in bag-locking feature that
                                                     provides a convenient and secure place to leave your bag.</p>
                      <p class=" d-lg-block pb-3 mb-2 mb-md-3">BagLok is sold separately but directly attaches to the LapLok product for an easy-to-carry, lightweight, and
@@ -286,9 +286,9 @@ forgotten. The process is quick &amp; easy for the IT manager or end user.</p>
                 </div>
                 <div class=" col-md-6 order-md-1 pt-md-4 pt-lg-5" >
                   <div class="pe-md-4 me-md-2">
-                    <h2 class="h3">Device Compability</h2>
-                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">The work-from-anywhere professional needs a holistic protection solution that works with a wide variety of
-devices. That&#39;s why Laplok is designed to function seamlessly with any device including all laptops and all
+                    <h2 class="h3">Device Compatibility</h2>
+                    <p class=" d-lg-block pb-3 mb-2 mb-md-3">The work-from-anywhere professional needs a holistic protection solution that works with a wide variety of devices.</p>
+                        <p class=" d-lg-block pb-2 mb-1 mb-md-2">That's why Laplok is designed to function seamlessly with any device including all laptops and all
 tablets. No need for a cable lock slot with our design.</p>
                   </div>
                 </div>
