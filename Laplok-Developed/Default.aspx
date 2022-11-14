@@ -67,9 +67,8 @@
                
                 <div class="fs-xl"><p class=" d-lg-block pb-2 mb-1 mb-md-2">Every 53 seconds, someone is the victim of laptop theft. If you’re an on-the-go professional, this represents a significant risk.
                     </p>
-                    <p class=" d-lg-block pb-2 mb-1 mb-md-2">That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is
-the perfect solution for keeping your laptop safe no matter where in the world you’re working.</p>
-                 
+                    <p class=" d-lg-block pb-2 mb-1 mb-md-2">That’s where LapLok comes into play. This portable, highly effective, and easy-to-use anti-theft device is the perfect solution for keeping your laptop safe no matter where in the world you’re working.</p>
+            
                </div>
                   
               </div>
